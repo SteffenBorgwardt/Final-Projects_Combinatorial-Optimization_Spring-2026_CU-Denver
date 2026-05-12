@@ -8,5 +8,6 @@ Carol Kiekhaefer, MD
 - `Poster_Kiekhaefer.pdf` — final poster (36" × 48")
 - `Abstract_Kiekhaefer.pdf` — full project abstract
 - Python implementation files (NetworkX, CVXPY)
+- `Poster_Presentation_Script_Kiekhaefer.pdf` — narrative script delivered during the departmental poster session
 
 See the [project wiki page](../../wiki/Beyond-Centrality-Revealing-Disease-Critical-Proteins-in-a-COVID-19-Interactome-Through-Minimum-Vertex-Cuts---Carol-Kiekhaefer) for the full abstract and bibliography.
